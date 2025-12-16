@@ -227,7 +227,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center gap-2 mb-4 md:mb-0">
                 <span className="font-mono text-gray-600 text-xs">
-                    © 2024 WELLigLIFE SYSTEMS. TODOS LOS DERECHOS RESERVADOS.
+                    © 2025 WELLigLIFE SYSTEMS. TODOS LOS DERECHOS RESERVADOS.
                 </span>
             </div>
             <div className="flex gap-6 font-mono text-xs text-gray-600">
